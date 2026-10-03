@@ -1,8 +1,8 @@
-# Неглухой телефон
+# Telephone
 
-Дано одно натуральное число от 1 до 100. Нужно вывести это же число без изменений.
+Given a single natural number from 1 to 100, output the same number unchanged.
 
-**Вход** (`input.txt`): число от 1 до 100.
-**Выход** (`output.txt`): то же самое число.
+**Input** (`input.txt`): a number from 1 to 100.
+**Output** (`output.txt`): the same number.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=108
+https://acmp.ru/index.asp?main=task&id_task=108

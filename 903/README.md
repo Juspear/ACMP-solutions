@@ -1,10 +1,11 @@
-# Бисер
+# Beads
 
-В шкатулке лежат бусины N различных цветов, каждого цвета много. Сколько минимум бусин нужно вытащить вслепую, чтобы среди них точно оказались две одного цвета.
+A box holds beads of N different colors, with plenty of each color. Find the minimum
+number of beads you must take out blindly to be guaranteed two of the same color.
 
-По принципу Дирихле ответ — N + 1.
+By the pigeonhole principle the answer is N + 1.
 
-**Вход** (`input.txt`): число цветов N (1 ≤ N ≤ 10^9).
-**Выход** (`output.txt`): минимальное количество бусин.
+**Input** (`input.txt`): number of colors N (1 ≤ N ≤ 10^9).
+**Output** (`output.txt`): the minimum number of beads.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=903
+https://acmp.ru/index.asp?main=task&id_task=903

@@ -1,10 +1,12 @@
-# Эния
+# Enia
 
-Нужно обработать N прямоугольных панелей размером A на B метров сульфидом тория. На один квадратный метр уходит 1 нанограмм, и обрабатывать надо обе стороны. Нужно посчитать общий вес сульфида.
+N rectangular panels of size A by B meters must be treated with thorium sulfide. One
+square meter needs 1 nanogram, and both sides of each panel must be treated. Find the
+total weight of sulfide.
 
-Ответ — N × A × B × 2.
+The answer is N × A × B × 2.
 
-**Вход** (`input.txt`): три числа N, A, B (каждое ≤ 100).
-**Выход** (`output.txt`): масса сульфида в нанограммах.
+**Input** (`input.txt`): three numbers N, A, B (each ≤ 100).
+**Output** (`output.txt`): the mass of sulfide in nanograms.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=195
+https://acmp.ru/index.asp?main=task&id_task=195

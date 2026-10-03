@@ -1,10 +1,13 @@
-# Два бандита
+# Two bandits
 
-Гарри стреляет по банкам слева направо, Ларри — справа налево. В какой-то момент они одновременно простреливают одну и ту же последнюю банку. Известно, сколько банок прострелил каждый. Нужно найти, сколько банок не прострелил Гарри и сколько не прострелил Ларри.
+Harry shoots cans from left to right, Larry from right to left. At some moment they
+both shoot the very same last can at once. Given how many cans each of them shot, find
+how many cans Harry did not shoot and how many Larry did not shoot.
 
-Всего банок (Гарри + Ларри − 1), так как одну общую посчитали дважды. Не прострелил Гарри = Ларри − 1, не прострелил Ларри = Гарри − 1.
+The total number of cans is (Harry + Larry − 1), since the shared one was counted
+twice. Harry did not shoot Larry − 1, and Larry did not shoot Harry − 1.
 
-**Вход** (`input.txt`): два числа — сколько прострелили Гарри и Ларри.
-**Выход** (`output.txt`): два числа — сколько не прострелили Гарри и Ларри.
+**Input** (`input.txt`): two numbers — how many cans Harry and Larry shot.
+**Output** (`output.txt`): two numbers — how many cans Harry and Larry did not shoot.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=33
+https://acmp.ru/index.asp?main=task&id_task=33

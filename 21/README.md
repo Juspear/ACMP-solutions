@@ -1,10 +1,11 @@
-# Зарплата
+# Salary
 
-В отделе три сотрудника с разными зарплатами. Нужно найти, на сколько зарплата самого высокооплачиваемого отличается от самого низкооплачиваемого.
+A department has three employees with different salaries. Find by how much the
+highest-paid one's salary differs from the lowest-paid one's.
 
-Ответ — разница между максимумом и минимумом.
+The answer is the difference between the maximum and the minimum.
 
-**Вход** (`input.txt`): три натуральных числа через пробел (каждое ≤ 10^5).
-**Выход** (`output.txt`): разница между наибольшей и наименьшей зарплатой.
+**Input** (`input.txt`): three natural numbers separated by spaces (each ≤ 10^5).
+**Output** (`output.txt`): the difference between the largest and the smallest salary.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=21
+https://acmp.ru/index.asp?main=task&id_task=21

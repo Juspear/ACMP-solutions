@@ -1,10 +1,16 @@
-# Олимпиада
+# Olympiad
 
-Трое студентов (5, 3 и 1 курс) решают задачи по правилам ACM. Пятикурсник решает по порядку, третьекурсник — с конца, первокурсник — от самой лёгкой к самой трудной. На каждую задачу у всех уходит одинаковое время. За 300 минут нужно определить победителя: больше решённых задач, при равенстве — меньше штрафного времени, а при равенстве штрафа побеждает студент младшего курса.
+Three students (5th, 3rd and 1st year) solve problems under ACM rules. The 5th-year
+solves them in order, the 3rd-year in reverse order, the 1st-year from the easiest to
+the hardest. Every student needs the same time for a given problem. Within 300 minutes
+determine the winner: most problems solved; on a tie, the smaller penalty time; on a
+further tie, the student from the younger year wins.
 
-Штраф — сумма моментов сдачи каждой решённой задачи. Решение просто моделирует все три порядка.
+Penalty is the sum of the submission moments of all solved problems. The solution just
+simulates all three orders.
 
-**Вход** (`input.txt`): в первой строке N (N ≤ 10), во второй — N чисел, время решения каждой задачи.
-**Выход** (`output.txt`): номер курса победителя.
+**Input** (`input.txt`): first line N (N ≤ 10), second line N numbers — the time to
+solve each problem.
+**Output** (`output.txt`): the year number of the winner.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=942
+https://acmp.ru/index.asp?main=task&id_task=942

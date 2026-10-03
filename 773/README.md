@@ -1,10 +1,12 @@
-# Гулливер
+# Gulliver
 
-Лилипуты шьют Гулливеру матрац из своих маленьких. Гулливер в K раз больше лилипутов по каждому измерению, а матрац собирается из M слоёв. Нужно узнать, сколько маленьких матрацев уйдёт.
+The Lilliputians sew a mattress for Gulliver out of their small ones. Gulliver is K
+times larger than a Lilliputian in every dimension, and the mattress is built from M
+layers. Find how many small mattresses are needed.
 
-По площади уходит K×K матрацев на слой, слоёв M, итого K×K×M.
+By area each layer takes K×K mattresses, with M layers, so K×K×M in total.
 
-**Вход** (`input.txt`): два числа K и M (2 ≤ K, M ≤ 100).
-**Выход** (`output.txt`): количество матрацев лилипутов.
+**Input** (`input.txt`): two numbers K and M (2 ≤ K, M ≤ 100).
+**Output** (`output.txt`): the number of Lilliputian mattresses.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=773
+https://acmp.ru/index.asp?main=task&id_task=773

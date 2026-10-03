@@ -1,10 +1,11 @@
-# Орешки
+# Nuts
 
-Белочка собрала N шишек, в каждой ровно M орешков. На зиму ей нужно не меньше K орешков. Нужно определить, хватит ли запаса.
+A squirrel collected N cones, each with exactly M nuts. She needs at least K nuts for
+the winter. Determine whether her stock is enough.
 
-Всего орешков N×M; сравниваем с K.
+Total nuts is N×M; compare it with K.
 
-**Вход** (`input.txt`): три натуральных числа N, M, K (N, M ≤ 100, K ≤ 10000).
-**Выход** (`output.txt`): `YES`, если хватит, иначе `NO`.
+**Input** (`input.txt`): three natural numbers N, M, K (N, M ≤ 100, K ≤ 10000).
+**Output** (`output.txt`): `YES` if it is enough, otherwise `NO`.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=766
+https://acmp.ru/index.asp?main=task&id_task=766

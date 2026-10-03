@@ -1,8 +1,9 @@
-# Больше - меньше
+# Greater - less
 
-Даны два целых числа A и B (по модулю до 2×10^9). Нужно сравнить их и вывести знак сравнения.
+Given two integers A and B (absolute value up to 2×10^9), compare them and output the
+comparison sign.
 
-**Вход** (`input.txt`): числа A и B (в двух строках).
-**Выход** (`output.txt`): `<`, если A < B; `>`, если A > B; `=`, если равны.
+**Input** (`input.txt`): numbers A and B (on two lines).
+**Output** (`output.txt`): `<` if A < B, `>` if A > B, `=` if they are equal.
 
-Задача на acmp.ru: https://acmp.ru/index.asp?main=task&id_task=25
+https://acmp.ru/index.asp?main=task&id_task=25
